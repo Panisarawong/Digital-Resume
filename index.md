@@ -27,10 +27,9 @@ Thailand Young Physicists’ Tournament
 
 - Silver award in Thailand Young Physicists’ Tournament 2018 
 
-![Image](https://www.img.in.th/images/456fb5aafd447e3247f04d86a2be1622.jpg)
-
 - Bronze award in Thailand Young Physicists’ Tournament 2019 
 
+![Image](https://www.img.in.th/images/456fb5aafd447e3247f04d86a2be1622.jpg)
 ![Image](https://www.img.in.th/images/b21602eab8fb21b5abe32b627a83e083.jpg)
 
 Pre-Olympic Physics 2019

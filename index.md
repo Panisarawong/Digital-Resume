@@ -1,9 +1,5 @@
 ## Digital Profile
-[Link](https://www.img.in.th/images/ac0f36867ec7366419d946166f6fd842.jpg)
-
-You can use the [editor on GitHub](https://github.com/Panisarawong/Resume-Tu107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://www.img.in.th/images/ac0f36867ec7366419d946166f6fd842.jpg)
 
 ## About Me
 Name : Panisara Wongbulan

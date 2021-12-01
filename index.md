@@ -1,10 +1,22 @@
-## Welcome to GitHub Pages
+## Digital Profile
 
 You can use the [editor on GitHub](https://github.com/Panisarawong/Resume-Tu107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
+Name : Panisara Wongbulan
+
+Date Of Birth : 13 August 2002
+
+Email : panisara.wong@dome.tu.ac.th
+
+## Education
+2021 - Present : Data Science and Innovation, Thammasat University 
+                
+2020 - 2021 : Faculty Of Economics, Chiang Mai University 
+              
+2014 - 2020 : Saiburi Chaengprachakarn School
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

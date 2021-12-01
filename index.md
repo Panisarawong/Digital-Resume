@@ -1,5 +1,5 @@
 ## Digital Profile
-![Image](https://www.img.in.th/images/ac0f36867ec7366419d946166f6fd842.jpg)
+![Image](https://www.img.in.th/images/01ba166b0492dbddf64bad7416d37c13.jpg)
 
 ## About Me
 Name : Panisara Wongbulan

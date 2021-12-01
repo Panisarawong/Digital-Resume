@@ -26,7 +26,7 @@ Tel : 065-514XXXX
 Thailand Young Physicists’ Tournament
 
 - Silver award in Thailand Young Physicists’ Tournament 2018 
-- 
+
 ![Image](https://www.img.in.th/images/456fb5aafd447e3247f04d86a2be1622.jpg)
 
 - Bronze award in Thailand Young Physicists’ Tournament 2019 

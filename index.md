@@ -1,4 +1,4 @@
-## Digital Profile
+### Digital Profile
 ![Image](https://www.img.in.th/images/01ba166b0492dbddf64bad7416d37c13.jpg)
 
 ## About Me
@@ -15,7 +15,7 @@ Email : panisara.wong@dome.tu.ac.th
               
 2014 - 2020 : Saiburi Chaengprachakarn School
 
-# Activity and Certificate
+## Activity and Certificate
 Silver award in Thailand Young Physicists’ Tournament 2018 
 
 ![Image](https://www.img.in.th/images/19c33ab896e728384c0e1e2cb0af96d7.jpg)
